@@ -2,7 +2,7 @@
   "name": "weather-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "devalparikh.github.io/ReactWeather/",
+  "homepage": "https://devalparikh.github.io/ReactWeather/",
   "dependencies": {
     "bootstrap": "^3.3.7",
     "gh-pages": "^1.1.0",
