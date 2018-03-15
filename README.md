@@ -1,6 +1,4 @@
-## [React](https://reactjs.org/) Weather 
-
----
+# ReactWeather 
 
 This project was my first Web Application built in ReactJS. 
 
