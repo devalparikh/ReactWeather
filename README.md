@@ -84,7 +84,7 @@ Weather Data from: [Open Weather API](https://openweathermap.org/api)
     ```
     
     * That's it! Your app is now accessible at the URL you specified in step 4.
-    * In my case, my app is now accessible at: https://devalparikh.github.io/react-gh-pages/
+    * In my case, my app is now accessible at: https://devalparikh.github.io/ReactWeather/
     * I recommend exploring the GitHub repository at this point. When I explored it, I noticed that, although a `master` branch did not exist, a `gh-pages` branch did exist. I noticed the latter contained the *built* app code, as opposed to the app's source code.
 
 8. **Optionally, commit your source code to the "master" branch and push your commit to GitHub.** (1 minute)
